@@ -189,9 +189,9 @@ sukp-tabu-search/
 │   ├── tabu_search.py         # Tabu Search algorithm
 │   ├── experiment.py          # Experiment runner
 │   └── utils.py               # Utility functions
-├── data/
-│   ├── instances/             # Generated instance files
-│   └── results/               # Experiment results
+└── data/
+    ├── instances/             # Generated instance files
+    └── results/               # Experiment results
 ```
 
 ## Code Quality
