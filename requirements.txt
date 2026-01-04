@@ -1,0 +1,6 @@
+# Requirements for SUKP Tabu Search
+# Python 3.11+ required
+
+# Standard library only - no external dependencies required
+# All functionality implemented using Python standard library
+
