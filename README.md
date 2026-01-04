@@ -192,8 +192,6 @@ sukp-tabu-search/
 ├── data/
 │   ├── instances/             # Generated instance files
 │   └── results/               # Experiment results
-└── notebooks/
-    └── analysis.ipynb         # Optional analysis notebook
 ```
 
 ## Code Quality
